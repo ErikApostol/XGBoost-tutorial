@@ -1,5 +1,7 @@
 # XGBoost-tutorial
 
+This is a reading note of the XGBoost with Python 7-day mini-course offered by Jason Brownlee.
+
 ## What is Gradient Boosting
 Gradient Boosting is a technique to add weaker algorithms together using a procedure similar to gradient descent, in order to minimize the loss function and make them into a stronger algorithm. New weaker algorithms are added to reduce residual errors of previous algorithms.
 
