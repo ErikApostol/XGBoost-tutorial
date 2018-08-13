@@ -48,4 +48,4 @@ pyplot.show()
 (Owen Zhang, Kaggle competition winner) Set number of trees to 100 or 1000, and tune the learning rate.
 difference of fit and train in xgboost
 
-For an example of grid-searching parameters, see tuning.py.
+For an example of grid-searching parameters, see [tuning.py](https://github.com/ErikApostol/XGBoost-tutorial/blob/master/tuning.py).
